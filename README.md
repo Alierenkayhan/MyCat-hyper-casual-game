@@ -2,10 +2,11 @@
     
 # MyCat-hyper-casual-game
 
-[![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/TheVirus)](https://img.shields.io/github/issues/Alierenkayhan/TheVirus)
-[![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/TheVirus)](https://img.shields.io/github/forks/Alierenkayhan/TheVirus)
-[![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/TheVirus)](https://img.shields.io/github/stars/Alierenkayhan/TheVirus)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/TheVirus)](https://img.shields.io/github/license/Alierenkayhan/TheVirus)
+[![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/issues/Alierenkayhan/MyCat-hyper-casual-game)
+[![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/forks/Alierenkayhan/MyCat-hyper-casual-game)
+[![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/stars/Alierenkayhan/MyCat-hyper-casual-game)
+[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/license/Alierenkayhan/MyCat-hyper-casual-game)
+
 
 This is my hyper casual game. I have not finished it yet. This is for Bright/Zerosum Game Design Workshop Competition.
 
