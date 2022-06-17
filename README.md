@@ -48,9 +48,9 @@ This is my hyper casual game. I have not finished it yet. This is for Bright/Zer
   1-Screenshots of MyCat
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshoots/img1.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
-        <td>  <img align="left" src="screenshoots/img2.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
-        <td>  <img align="left" src="screenshoots/img3.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
+        <td>  <img align="left" src="screenshots/img1.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
+        <td>  <img align="left" src="screenshots/img2.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
+        <td>  <img align="left" src="screenshots/img3.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
     </tr>
    </table>
 
