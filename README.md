@@ -4,16 +4,17 @@
 
 <div align="center">
     
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/MyCat-hyper-casual-game?style=social)   
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/issues/Alierenkayhan/MyCat-hyper-casual-game)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/forks/Alierenkayhan/MyCat-hyper-casual-game)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/stars/Alierenkayhan/MyCat-hyper-casual-game)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/license/Alierenkayhan/MyCat-hyper-casual-game)
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/MyCat-hyper-casual-game)](https://github.com/Alierenkayhan/MyCat-hyper-casual-game/blob/main/LICENSE)    
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/MyCat-hyper-casual-game/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/MyCat-hyper-casual-game)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/MyCat-hyper-casual-game)
-![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/MyCat-hyper-casual-game?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/MyCat-hyper-casual-game)
-    
+ 
+
 </div>
 
 This is my hyper casual game. I have not finished it yet. This is for Bright/Zerosum Game Design Workshop Competition.
