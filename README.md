@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
     
 # MyCat-hyper-casual-game
 
@@ -49,9 +49,9 @@ This is my hyper casual game. I have not finished it yet. This is for Bright/Zer
   1-Screenshots of MyCat
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/img1.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
-        <td>  <img align="left" src="screenshots/img2.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
-        <td>  <img align="left" src="screenshots/img3.jpg" alt="MyCat" width ="400" height = "400" /></p></td>
+        <td>  <img align="left" src="screenshots/img1.jpg" alt="MyCat" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/img2.jpg" alt="MyCat" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/img3.jpg" alt="MyCat" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
