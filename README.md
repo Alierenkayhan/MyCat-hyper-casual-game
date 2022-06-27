@@ -4,15 +4,32 @@
 
 <div align="center">
     
+ 
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/MyCat-hyper-casual-game?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/MyCat-hyper-casual-game?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/MyCat-hyper-casual-game?style=social)
+ 
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/MyCat-hyper-casual-game)](https://github.com/Alierenkayhan/MyCat-hyper-casual-game/blob/main/LICENSE)    
+ 
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/issues/Alierenkayhan/MyCat-hyper-casual-game)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/MyCat-hyper-casual-game)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/MyCat-hyper-casual-game)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/MyCat-hyper-casual-game) 
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/forks/Alierenkayhan/MyCat-hyper-casual-game)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/MyCat-hyper-casual-game)](https://img.shields.io/github/stars/Alierenkayhan/MyCat-hyper-casual-game)
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/MyCat-hyper-casual-game)](https://github.com/Alierenkayhan/MyCat-hyper-casual-game/blob/main/LICENSE)    
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/MyCat-hyper-casual-game/total)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/MyCat-hyper-casual-game/goto)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/MyCat-hyper-casual-game)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/MyCat-hyper-casual-game)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/MyCat-hyper-casual-game)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/MyCat-hyper-casual-game)
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/MyCat-hyper-casual-game) 
+
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/MyCat-hyper-casual-game/total)
+ <a href="https://github.com/Alierenkayhan/MyCat-hyper-casual-game/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+ 
+
  
 
 </div>
